@@ -1,5 +1,5 @@
 {
-  "name": "Flot",
+  "name": "flot",
   "main": "jquery.flot.js",
   "dependencies": {
     "jquery": ">= 1.2.6"
